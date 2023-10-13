@@ -13,9 +13,6 @@ include('../source/data.php');
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<?php
-    include('../source/views/menu.php');
-?>
 <div class="container">
     <div class="blokjes">
         <?php
